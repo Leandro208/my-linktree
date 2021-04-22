@@ -34,7 +34,7 @@ img{
     margin-right: auto;
     margin-top: 10%;
     height: auto;
-    max-width: 100px;
+    max-width: 150px;
     margin-top: 10px;
 }
 
@@ -43,14 +43,14 @@ img{
     padding: 20px;
     font-family: "Nunito", sans-serif;
     margin: 0;
-    font-size: 18px;
+    font-size: 23px;
 }
 
 .subtitle{
     text-align: center;
-    font-size: 13px;
+    font-size: 15px;
     color: #e3e3e3;
-    margin-top: -5px;
+    margin-top: -10px;
     margin-bottom: 40px;
   
 }
@@ -73,7 +73,7 @@ img{
 a{
     text-decoration: none;
     color: white;
-    transition: color 1s;
+    transition: color 0.5s;
     
 }
 
